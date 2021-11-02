@@ -1,0 +1,491 @@
+[
+   {
+		"poules": [
+			{
+				"poule": [
+				   { "land": "A" },
+				   { "land": "B" }				   
+				]
+			},
+			{
+				"poule": [
+				   { "land": "C" },
+				   { "land": "D" }				   
+				]
+			}
+		],
+		"hotels": [
+			{
+				"naam": "Hotel A",
+				"sterren": 3,
+				"kamers": 60
+			},
+			{
+				"naam": "Hotel B",
+				"sterren": 4,
+				"kamers": 50
+			},
+			{
+				"naam": "Hotel C",
+				"sterren": 4,
+				"kamers": 20
+			}
+		],
+		"supportersgroepen": [
+			{
+				"naam": "A1",
+				"land": "A",
+				"kamers": 20,
+				"sterren": 2
+			},
+			{
+				"naam": "A2",
+				"land": "A",
+				"kamers": 30,
+				"sterren": 2
+			},
+			{
+				"naam": "C1",
+				"land": "C",
+				"kamers": 40,
+				"sterren": 3
+			},
+			{
+				"naam": "B1",
+				"land": "B",
+				"kamers": 20,
+				"sterren": 2
+			},
+			{
+				"naam": "D1",
+				"land": "D",
+				"kamers": 20,
+				"sterren": 3
+			}
+		]		
+	},
+
+
+   {
+		"poules": [
+			{
+				"poule": [
+				   { "land": "A" },
+				   { "land": "B" }				   
+				]
+			},
+			{
+				"poule": [
+				   { "land": "C" },
+				   { "land": "D" }				   
+				]
+			}
+		],
+		"hotels": [
+			{
+				"naam": "Hotel A",
+				"sterren": 4,
+				"kamers": 50
+			},
+			{
+				"naam": "Hotel B",
+				"sterren": 3,
+				"kamers": 60
+			},
+			{
+				"naam": "Hotel C",
+				"sterren": 4,
+				"kamers": 20
+			}
+		],
+		"supportersgroepen": [
+			{
+				"naam": "A1",
+				"land": "A",
+				"kamers": 20,
+				"sterren": 2
+			},
+			{
+				"naam": "A2",
+				"land": "A",
+				"kamers": 30,
+				"sterren": 3
+			},
+			{
+				"naam": "C1",
+				"land": "C",
+				"kamers": 40,
+				"sterren": 4
+			},
+			{
+				"naam": "B1",
+				"land": "B",
+				"kamers": 20,
+				"sterren": 2
+			},
+			{
+				"naam": "D1",
+				"land": "D",
+				"kamers": 20,
+				"sterren": 2
+			}
+		]		
+	},
+	
+	
+
+   {
+		"poules": [
+			{
+				"poule": [
+				   { "land": "A" },
+				   { "land": "B" }				   
+				]
+			},
+			{
+				"poule": [
+				   { "land": "C" },
+				   { "land": "D" }				   
+				]
+			}
+		],
+		"hotels": [
+			{
+				"naam": "Hotel A",
+				"sterren": 4,
+				"kamers": 80
+			},
+			{
+				"naam": "Hotel B",
+				"sterren": 3,
+				"kamers": 30
+			},
+			{
+				"naam": "Hotel C",
+				"sterren": 3,
+				"kamers": 20
+			}
+		],
+		"supportersgroepen": [
+			{
+				"naam": "A1",
+				"land": "A",
+				"kamers": 20,
+				"sterren": 4
+			},
+			{
+				"naam": "A2",
+				"land": "A",
+				"kamers": 30,
+				"sterren": 1
+			},
+			{
+				"naam": "C1",
+				"land": "C",
+				"kamers": 40,
+				"sterren": 2
+			},
+			{
+				"naam": "B1",
+				"land": "B",
+				"kamers": 20,
+				"sterren": 3
+			},
+			{
+				"naam": "D1",
+				"land": "D",
+				"kamers": 20,
+				"sterren": 3
+			}
+		]		
+	},
+  {
+		"poules": [
+			{
+				"poule": [
+				   { "land": "A" },
+				   { "land": "B" }				   
+				]
+			},
+			{
+				"poule": [
+				   { "land": "C" },
+				   { "land": "D" }				   
+				]
+			}
+		],
+		"hotels": [
+			{
+				"naam": "Hotel A",
+				"sterren": 3,
+				"kamers": 40
+			},
+			{
+				"naam": "Hotel B",
+				"sterren": 3,
+				"kamers": 70
+			},
+			{
+				"naam": "Hotel C",
+				"sterren": 4,
+				"kamers": 20
+			}
+		],
+		"supportersgroepen": [
+			{
+				"naam": "A1",
+				"land": "A",
+				"kamers": 20,
+				"sterren": 2
+			},
+			{
+				"naam": "A2",
+				"land": "A",
+				"kamers": 30,
+				"sterren": 1
+			},
+			{
+				"naam": "C1",
+				"land": "C",
+				"kamers": 40,
+				"sterren": 4
+			},
+			{
+				"naam": "B1",
+				"land": "B",
+				"kamers": 20,
+				"sterren": 3
+			},
+			{
+				"naam": "D1",
+				"land": "D",
+				"kamers": 20,
+				"sterren": 3
+			}
+		]		
+	},
+	
+	
+	
+
+   {
+		"poules": [
+			{
+				"poule": [
+				   { "land": "A" },
+				   { "land": "B" }				   
+				]
+			},
+			{
+				"poule": [
+				   { "land": "C" },
+				   { "land": "D" }				   
+				]
+			}
+		],
+		"hotels": [
+			{
+				"naam": "Hotel A",
+				"sterren": 4,
+				"kamers": 90
+			},
+			{
+				"naam": "Hotel B",
+				"sterren": 3,
+				"kamers": 20
+			},
+			{
+				"naam": "Hotel C",
+				"sterren": 3,
+				"kamers": 20
+			}
+		],
+		"supportersgroepen": [
+			{
+				"naam": "A1",
+				"land": "A",
+				"kamers": 20,
+				"sterren": 1
+			},
+			{
+				"naam": "A2",
+				"land": "A",
+				"kamers": 30,
+				"sterren": 3
+			},
+			{
+				"naam": "B1",
+				"land": "B",
+				"kamers": 40,
+				"sterren": 3
+			},
+			{
+				"naam": "C1",
+				"land": "C",
+				"kamers": 20,
+				"sterren": 3
+			},
+			{
+				"naam": "D1",
+				"land": "D",
+				"kamers": 20,
+				"sterren": 2
+			}
+		]		
+	},
+
+
+	
+	
+
+   {
+		"poules": [
+			{
+				"poule": [
+				   { "land": "A" },
+				   { "land": "B" }				   
+				]
+			},
+			{
+				"poule": [
+				   { "land": "C" },
+				   { "land": "D" }				   
+				]
+			}
+		],
+		"hotels": [
+			{
+				"naam": "Hotel A",
+				"sterren": 3,
+				"kamers": 90
+			},
+			{
+				"naam": "Hotel B",
+				"sterren": 3,
+				"kamers": 20
+			},
+			{
+				"naam": "Hotel C",
+				"sterren": 4,
+				"kamers": 20
+			}
+		],
+		"supportersgroepen": [
+			{
+				"naam": "A1",
+				"land": "A",
+				"kamers": 20,
+				"sterren": 1
+			},
+			{
+				"naam": "A2",
+				"land": "A",
+				"kamers": 30,
+				"sterren": 1
+			},
+			{
+				"naam": "C1",
+				"land": "C",
+				"kamers": 40,
+				"sterren": 3
+			},
+			{
+				"naam": "B1",
+				"land": "B",
+				"kamers": 20,
+				"sterren": 4
+			},
+			{
+				"naam": "D1",
+				"land": "D",
+				"kamers": 20,
+				"sterren": 3
+			}
+		]		
+	},
+	
+
+   {
+		"poules": [
+			{
+				"poule": [
+				   { "land": "A" },
+				   { "land": "B" }				   
+				]
+			},
+			{
+				"poule": [
+				   { "land": "C" },
+				   { "land": "D" }				   
+				]
+			}
+		],
+		"hotels": [
+			{
+				"naam": "Hotel A3",
+				"sterren": 5,
+				"kamers": 60
+			},
+			{
+				"naam": "Hotel B4",
+				"sterren": 4,
+				"kamers": 40
+			},
+			{
+				"naam": "Hotel C3",
+				"sterren": 3,
+				"kamers": 20
+			},
+			{
+				"naam": "Hotel D4",
+				"sterren": 2,
+				"kamers": 50
+			}
+		],
+		"supportersgroepen": [
+			{
+				"naam": "A40_3",
+				"land": "A",
+				"kamers": 40,
+				"sterren": 3
+			},
+			{
+				"naam": "B15_3",
+				"land": "B",
+				"kamers": 15,
+				"sterren": 2
+			},
+			{
+				"naam": "B20_3",
+				"land": "B",
+				"kamers": 20,
+				"sterren": 2
+			},
+			{
+				"naam": "C15_4",
+				"land": "C",
+				"kamers": 15,
+				"sterren": 4
+			},
+			{
+				"naam": "D20_3",
+				"land": "D",
+				"kamers": 20,
+				"sterren": 3
+			},
+			{
+				"naam": "D30_4",
+				"land": "D",
+				"kamers": 30,
+				"sterren": 4
+			},
+			{
+				"naam": "A25_4",
+				"land": "A",
+				"kamers": 25,
+				"sterren": 2
+			}
+		]		
+	}
+]
+	
